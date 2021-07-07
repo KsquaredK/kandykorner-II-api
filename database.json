@@ -64,7 +64,7 @@
         },
         {
             "id": 4,
-            "typeId": "Soda",
+            "type": "Soda",
             "customerId": 2,
             "locationId": 1
         }
