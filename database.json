@@ -1,0 +1,139 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Doodles",
+            "typeId": 2,
+            "price": 1.29,
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": 1,
+            "typeId": "Maltese",
+            "price": 4.99,
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Edward",
+            "typeId": 4,
+            "price": 3.29,
+            "locationId": 2
+        },
+        {
+            "id": 4,
+            "name": "Shark",
+            "typeId": 3,
+            "price": 2.09,
+            "locationId": 1
+        },
+        {
+            "id": 5,
+            "name": "Vinyl",
+            "typeId": 3,
+            "price": 5.69,
+            "locationId": 2
+        },
+        {
+            "id": 6,
+            "name": "Schmertz",
+            "typeId": 2,
+            "price": 1.59,
+            "locationId": 2
+        }
+    ],
+    "productsTypes": [
+        {
+            "id": 1,
+            "type": "Hard Candy",
+            "customerId": 1,
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "type": "Gum",
+            "customerId": 4,
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "type": "Chocolate",
+            "customerId": 3,
+            "locationId": 2
+        },
+        {
+            "id": 4,
+            "typeId": "Soda",
+            "customerId": 2,
+            "locationId": 1
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Hannah Hall",
+            "address": "7002 Chestnut Ct"
+        },
+        {
+            "id": 2,
+            "name": "Edward Everett Horton",
+            "address": "7002 Chinquapin Ct"
+        },
+        {
+            "id": 3,
+            "name": "John Kenneth Galbraith",
+            "address": "7002 Cherry Ct"
+        },
+        {
+            "id": 4,
+            "name": "Hughie Louis Dewey",
+            "address": "7002 Chines Elm Ct"
+        },
+        {
+            "id": 5,
+            "name": "John Wesley Riles",
+            "address": "7002 Coffee Ct"
+        },
+        {
+            "id": 6,
+            "name": "Hannah Hall",
+            "address": "7002 Cardamom Ct"
+        },
+        {
+            "id": 7,
+            "name": "Hopalong Cassidy",
+            "address": "7002 Coppertree Ct"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "firstName": "Arthur",
+            "lastName": "Ashe",
+            "locationId": 1
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "name": "Nashville North",
+            "address": "8422 Johnson Pike"
+        },
+        {
+            "id": 2,
+            "name": "Nashville South",
+            "address": "209 Emory Drive"
+        },
+        {
+            "id": 3,
+            "name": "Nashville East",
+            "address": "8422 Donelson Pike"
+        },
+        {
+            "id": 4,
+            "name": "Nashville West",
+            "address": "209 White Bridge Pike"
+        }
+    ]
+}
