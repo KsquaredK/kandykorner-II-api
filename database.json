@@ -118,22 +118,30 @@
         {
             "id": 1,
             "name": "Nashville North",
-            "address": "8422 Johnson Pike"
+            "address": "8422 Johnson Pike",
+            "squareFeet": 1456,
+            "accessible": true
         },
         {
             "id": 2,
             "name": "Nashville South",
-            "address": "209 Emory Drive"
+            "address": "209 Emory Drive",
+            "squareFeet": 5003,
+            "accessible": true
         },
         {
             "id": 3,
             "name": "Nashville East",
-            "address": "8422 Donelson Pike"
+            "address": "8422 Donelson Pike",
+            "squareFeet": 422,
+            "accessible": true
         },
         {
             "id": 4,
             "name": "Nashville West",
-            "address": "209 White Bridge Pike"
+            "address": "209 White Bridge Road",
+            "squareFeet": 1202,
+            "accessible": true
         }
     ]
 }
